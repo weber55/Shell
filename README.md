@@ -1,7 +1,7 @@
 # Shell
 
 Builtins:
-...
+```
 $ bg JID
 $ cd [PATH]
 $ exit [N]
@@ -10,4 +10,4 @@ $ fg JID
 $ help
 $ jobs
 $ kill [-s SIGNAL] PID
-...
+```
